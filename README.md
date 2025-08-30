@@ -1,5 +1,5 @@
 # React Tailwind Form
-- Deploy link on Vercel: 
+- Deploy link on Vercel: https://react-tailwind-form.vercel.app/
 
 ## English [UA version below]
 
